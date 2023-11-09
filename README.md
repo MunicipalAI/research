@@ -25,7 +25,7 @@ Project/Approach folders/data
 * Create a hypothesis
 * Create a tech solution to test feasibility
 * Quantitatively evaluate solution
-* Try to find a simpler solution
+* Try to find a simpler solution, but must still address root cause
 
 ### 5. Run real-world trial
 * Create a process for the solution
