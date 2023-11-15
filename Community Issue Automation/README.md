@@ -8,6 +8,9 @@ Computer vision has significant potential to further reduce the time in the fiel
 ## Fairness
 All decisions would be human supervised, helping to make the model less biased and as fair as possible.  Without proper oversight, it could reinforce systemic issues. Fairness would need to be defined and monitored by a governing body in each city.
 
+## Community and Social Good
+While focusing on social good and community is important, reducing the noise allows for more focused time on the complex human issues.  Based on one cities data, 67% of the issues are resolved after one warning.  Why focus time equally, when a small percentage of issues are related to the human dilemma.
+
 ## Driving Costs and ROI
 While driving an entire city seems like a lot of work, the  workforce required to collect data every two weeks is a very small percentage of a neighborhood management budget.  We propose up to three four-hour shifts(night or day depending on traffic) to collect the data. From our testing, four hours was the max safe driving time.  Having two vehicles driving twelve hours a day, five days a week, costs a city around $12,000 in salary a month.  This sums to a total of $144,000 a year for a city the size of Tulsa, about 12% of their neighborhood budget.  This allows a taxpayer savings of around 40%, amountinng to an annual savings of close to $480,000 for a city the size of Tulsa. We expect with more data and our 360 camera this savings to increase to around $750,000 annually.
 
