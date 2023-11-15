@@ -1,10 +1,11 @@
+# Overview
 ## Simplest Solution
 The results show a complex problem.  The simplest solution is to just send out a certified letter($5) for each reported issue. However, from a City management perspective you won't know if there are actually issues and thus the high false positive rate applies.  While this would reduce a budget, it is not a high quality, trust worthy solution.
 
-# AI
+## AI
 Computer vision has a lot of potential to further reduce the time in the field. With our 360 camera and much more data we would expect the reactive and proactive review rates to go beyond 90%.  This would further reduce the time in the field by an additional 25%.  The max we would expect to reduce the time in the field by is around 83.5%.  Our small budget of $12k wasn't enough to collect and annotate large amounts of data, but it was enough to show the efficacy of the approach.
 
-# Fairness
+## Fairness
 All decisions would be human supervised, helping to make the model less biased and as fair as possible.  Fairness would need to be defined by a governing body in each City. 
 
 ## Driving Costs and ROI
