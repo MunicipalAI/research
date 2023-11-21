@@ -1,4 +1,4 @@
-Securing qualitative interviews with C-level executives within municipalities, even with Harvard's support, proved challenging. Despite a relatively small sample size, our study revealed a significant overlap in both qualitative and quantitative results. This convergence suggests consistent issues across 30+ cities, indicating a broader challenge that extends beyond individual municipalities.
+Securing qualitative interviews with C-level executives within municipalities proved challenging. Despite a relatively small sample size, our study revealed a significant overlap in both qualitative and quantitative results. This convergence suggests consistent issues across 30+ cities, indicating a broader challenge that extends beyond individual municipalities.
 
 During our interviews, we observed disparities between 311 calls and leaders' priorities. This is a natural outcome of political dynamics, where leaders may prioritize high-impact projects over the careful allocation of resources. This tension between public visibility and responsible fiscal management is a common theme, driven by the imperative of re-election.
 
