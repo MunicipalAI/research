@@ -1,6 +1,6 @@
 # Overview
 ## Beginning
-This ideas was created by James Benjamin Harris September, 2018.  An e-mail introducing his research was sent on September 25, 2018.
+This ideas was created by James Benjamin Harris September, 2018.  He was in a meeting with execs who were talking about their problems and he thought, "I can us CV to solve the nuisance abatement issue".  An e-mail introducing his research was sent on September 25, 2018.
 
 On November 2nd, 2018, a demo meeting was setup with Working in Neighborhoods to show James Benjamin Harris's research.
 
