@@ -1,6 +1,10 @@
 # Overview
 ## Beginning
+This ideas was created by James Benjamin Harris September, 2018.
+
 The City of Tulsa was trying to solve the problem of blight using community based approaches. This led to increasing the budget. When Ben Harris took over running Urban Data Pioneers, one of the first projects was using computer vision to identify issues instead of humans. This led to the [RefuseAI(2019)](https://www.cityoftulsa.org/media/10643/refuse-artificial-intelligence.pptx) project.  Then to the [NuisanceAI(2020)](https://www.cityoftulsa.org/media/13324/urban-data-pioneers-refuse-project.pdf) project.  Later, [OPSI](https://www.cityoftulsa.org/government/departments/finance/performance-strategy-and-innovation/) performed additional research identifying key metrics such as 40% false positive rates.
+
+Following the City, the research you see in this repo was performed from scratch(no copyright material being taken from the City) under the guidance of Harvard Innovation Labs.
 
 ## Simplest Solution
 The results show a complex problem.  The simplest solution is to send out a certified letter ($5) for each reported issue. However, from a city management perspective it will be unclear if there are actual issues and thus a high false positive rate.  While this would reduce a budget, it is not a high quality, trustworthy solution.
