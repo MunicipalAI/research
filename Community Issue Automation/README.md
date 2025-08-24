@@ -4,7 +4,7 @@ This ideas was created by James Benjamin Harris September, 2018.  He was in a me
 
 On November 2nd, 2018, a demo meeting was setup with Working in Neighborhoods to show James Benjamin Harris's research.
 
-On July 25th, 2019 the first public project was kicked-off, with attribution to James Benjamin Harris(Ben).
+On July 25th, 2019 the first public project was kicked-off and a public git project was created without license, with attribution to James Benjamin Harris(Ben).
 
 Following the City and under the guidance from City legal, the research seen in this repo was performed from scratch(no copyright material taken from the City) under the guidance of Harvard Innovation Labs.
 
